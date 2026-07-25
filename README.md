@@ -111,7 +111,3 @@ The model predicts the restaurant's price range based on the given input feature
 ---
 
 Python | Machine Learning | Deep Learning
-
----
-
-## ⭐ If you found this project useful, please give it a star!
